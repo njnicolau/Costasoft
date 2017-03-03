@@ -12,7 +12,7 @@ and open the template in the editor.
     <body>
         <?php
             echo 'holamon';
-            echo 'em dic Pepe';
+            echo 'em dic Pepe 2';
         ?>
     </body>
 </html>
